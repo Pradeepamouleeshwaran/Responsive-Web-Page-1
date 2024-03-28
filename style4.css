@@ -1,0 +1,21 @@
+#varities{
+    background: #e5e5e5;
+}
+#varities img{
+    width:250px;
+    height:250px;
+}
+.card{
+    height: 300px;
+    width:250px;
+    background: #e5e5e5 !important;
+    border: none !important;
+    box-shadow: 15px 20px 20px rgba(0,0,0,.3),
+                inset 4px 4px 10px white;
+    border-radius: 20px;
+    overflow: hidden;
+    align-items: center;
+   
+
+} 
+

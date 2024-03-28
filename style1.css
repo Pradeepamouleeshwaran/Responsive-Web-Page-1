@@ -1,0 +1,17 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.button{
+    text-align: center;
+    padding:50px;
+}
+.button1{
+    border-radius: 10px;
+    margin-left: 60px;
+}
+body{
+    background: linear-gradient(to right,#3f5efb,#fc466b);
+}
